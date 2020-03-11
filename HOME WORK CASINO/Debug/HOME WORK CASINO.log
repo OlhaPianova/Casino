@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\home work casino\home work casino\source.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HOME WORK CASINO.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\HOME WORK CASINO\Debug\HOME WORK CASINO.exe
+  HOME WORK CASINO.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\HOME WORK CASINO\Debug\HOME WORK CASINO.pdb (Partial PDB)
